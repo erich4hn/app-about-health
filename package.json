@@ -1,0 +1,11 @@
+{
+  "name": "app-questions-health-nodejs",
+  "version": "1.0.0",
+  "description": "Aplicativo de perguntas sobre a saúde do usuário em NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Hahn",
+  "license": "MIT"
+}
