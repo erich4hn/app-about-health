@@ -2,6 +2,10 @@
 
 ---
 
+<p align="center">
+  <img src="./assets/img/app.png" alt="Imagem do aplicativo App Perguntas Sobre Saúde">
+</p>
+
 💬 Essa é uma aplicação que realiza perguntas sobre a saúde do usuário ao ser executado no terminal do NodeJS.
 
 (💬 This is an application that asks user health questions when running on the NodeJS terminal.)
